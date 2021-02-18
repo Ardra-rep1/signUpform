@@ -38,8 +38,8 @@ label{
 }
 .centerAligned{
     position:absolute;
-    top:100px; 
-    left:270px;
+    top:50px; 
+    right:140px;
 }
 .btnmodal
 {
@@ -131,5 +131,6 @@ label{
 .btnmodal:hover {
     background: #1C6EA4; 
 }
-.btnmodal:active {
-    background: #144E75; }
+.btnmodal:active{
+    background: #144E75; 
+}
